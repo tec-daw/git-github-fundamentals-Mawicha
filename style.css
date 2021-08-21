@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Arima Madurai', cursive;
+}
+h2{
+    font-family: 'Arima Madurai', cursive;
+}
+p{
+    font-family: 'Arima Madurai', cursive;
+}
+button{
+    font-family: 'Arima Madurai', cursive;
+    margin-left: 30em;
+}
+ul{
+    font-family: 'Arima Madurai', cursive;
+}
+option{
+    font-family: 'Arima Madurai', cursive;
+}
+label {
+  /* Uniform size & alignment */
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+select{
+	display: inline-block;
+  width: 189px;
+  text-align: right;
+}
+body{
+  margin: 0 auto;
+  width: 500px;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
